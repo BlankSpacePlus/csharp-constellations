@@ -2,6 +2,8 @@
 
 这是继学习Java和VB.NET后，对C#的一次突击学习，以十二星座为项目案例进行训练。
 
+![](images/demo.png)
+
 参考资料：
 - [VisualStudio2019连接Github](https://www.jianshu.com/p/5cf4e8da1a81)
 - [VisualStudio连接Github](https://blog.csdn.net/qq_36330228/article/details/85079465)

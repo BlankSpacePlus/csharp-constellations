@@ -45,7 +45,8 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.ImageLocation = "D:\\VisualBasic\\CSharpFrameworkTest\\CSharpFrameworkTest\\images\\right.jpg";
+            this.pictureBox1.ImageLocation = "D:\\VisualStudio\\projects\\csharp-twelve-constellations\\CSharpFrameworkTest\\images\\" +
+    "right.jpg";
             this.pictureBox1.Location = new System.Drawing.Point(434, 203);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(160, 150);

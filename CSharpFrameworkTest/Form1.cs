@@ -48,7 +48,7 @@ namespace CSharpFrameworkTest
                 number = 12;
             }
             label1.Text = starArr[index];
-            pictureBox2.ImageLocation = "D:\\VisualBasic\\CSharpFrameworkTest\\CSharpFrameworkTest\\images\\" + number + ".png";
+            pictureBox2.ImageLocation = "D:\\VisualStudio\\projects\\csharp-twelve-constellations\\CSharpFrameworkTest\\images\\" + number + ".png";
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
